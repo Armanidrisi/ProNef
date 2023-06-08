@@ -8,7 +8,7 @@ ProNef is an NFT marketplace application that runs on iOS and Android. It was de
 
 ## 📱 Screenshots
 
-![](https://nefpro.vercel.app/static/media/scene.0c9a4cc167442c9b3806.png)
+![screenshot](https://nefpro.vercel.app/static/media/scene.0c9a4cc167442c9b3806.png)
 
 ## 🔧 Technologies Used
 
